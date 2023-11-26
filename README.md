@@ -34,3 +34,9 @@ Fitness is calculated for each individual based on the number of non-attacking p
 ## 5. Reproduction
 Individuals are selected for reproduction based on their fitness, and genetic algorithm operators are applied to create offspring. The new generation replaces the old one.
 
+# Parameters
+
+- `population_size`: Size of the population.
+- `generations`: Number of generations to run the algorithm.
+- `chaos_coefficient`: Controls the degree of chaos introduced during perturbation.
+- `mutation_rate`: Probability of mutation for each gene.
