@@ -40,3 +40,15 @@ Individuals are selected for reproduction based on their fitness, and genetic al
 - `generations`: Number of generations to run the algorithm.
 - `chaos_coefficient`: Controls the degree of chaos introduced during perturbation.
 - `mutation_rate`: Probability of mutation for each gene.
+
+# Pseudocode (Optional)
+
+```
+initialize_population()
+for generation in range(generations):
+    perturb_population_with_chaos()
+    evaluate_fitness()
+    select_reproduce_operators()
+    create_offspring()
+    replace_old_population()
+```
