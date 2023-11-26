@@ -61,3 +61,11 @@ solution = chaos_driven_optimization_n_queens(n, population_size=100, generation
 print("Final Solution:")
 print(solution)
 ```
+
+# Discussion
+
+CDO-NQ exhibits promising exploration capabilities, leveraging chaos theory for efficient search. Considerations such as parameter tuning and convergence behavior should be explored in further studies.
+
+# Conclusion
+
+CDO-NQ introduces a novel approach to solving the N-Queens problem, combining chaos theory and genetic algorithms. Its effectiveness and efficiency make it a potential candidate for various combinatorial optimization problems.
