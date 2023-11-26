@@ -52,3 +52,12 @@ for generation in range(generations):
     create_offspring()
     replace_old_population()
 ```
+
+# Example Usage
+
+```
+n = 8
+solution = chaos_driven_optimization_n_queens(n, population_size=100, generations=1000, chaos_coefficient=0.1, mutation_rate=0.1)
+print("Final Solution:")
+print(solution)
+```
