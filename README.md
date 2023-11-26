@@ -1,2 +1,4 @@
 # Chaos-Driven-Optimization-for-N-Queens-CDONQ
-CDO-NQ is an innovative optimization algorithm for the N-Queens problem, blending chaos theory and genetic algorithms to efficiently explore and evolve solutions in a controlled, generational fashion.
+## Abstract
+
+CDO-NQ is a novel optimization algorithm inspired by chaos theory and genetic algorithms. Specifically designed for solving the N-Queens problem, CDO-NQ introduces controlled chaos to efficiently explore the solution space. This documentation provides a comprehensive overview of the algorithm's principles, components, and usage.
